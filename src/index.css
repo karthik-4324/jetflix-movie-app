@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  background-color: black;
+}
+.heading_color{
+  color:white;
+}
+.movie_overlay{
+  opacity: 0;
+}
+.color{
+  color:white;
+}
